@@ -1,0 +1,21 @@
+
+==============================
+ EJERCICIOS DE PYTHON - AVANZADO
+==============================
+
+1. Organizador de archivos
+   Crea un programa que clasifique archivos en carpetas por tipo (PDF, imágenes, etc.) en una ruta dada.
+
+2. Agenda con POO
+   Crea una clase `Contacto` y una clase `Agenda` que permita agregar, buscar y eliminar contactos.
+
+3. Web Scraper de noticias
+   Usando requests y BeautifulSoup, haz un programa que extraiga los titulares de un sitio de noticias.
+
+4. Juego: Adivina el número
+   Crea un juego donde la computadora elige un número aleatorio y el usuario intenta adivinarlo.
+
+5. Analizador CSV
+   Crea un programa que lea un archivo CSV y muestre estadísticas básicas como promedio, máximo y mínimo de una columna numérica.
+
+(Puedes escribir tus respuestas debajo de cada enunciado)

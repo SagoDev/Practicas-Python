@@ -1,0 +1,21 @@
+
+==============================
+ EJERCICIOS DE PYTHON - BÁSICO
+==============================
+
+1. Suma de dos números
+   Escribe un programa que pida al usuario dos números y muestre su suma. {OK}
+
+2. Número par o impar
+   Escribe un programa que determine si un número entero ingresado es par o impar.{OK}
+
+3. Calculadora de IMC
+   Pide al usuario su peso (kg) y altura (m), y calcula su índice de masa corporal (IMC).{OK}
+
+4. Tablas de multiplicar
+   Escribe un programa que imprima la tabla de multiplicar del número que el usuario indique. {OK}
+
+5. Contador de vocales
+   Pide una palabra al usuario y cuenta cuántas vocales contiene.{OK}
+
+(Puedes escribir tus respuestas debajo de cada enunciado)

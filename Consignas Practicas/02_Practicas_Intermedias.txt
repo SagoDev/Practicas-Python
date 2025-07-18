@@ -1,0 +1,21 @@
+
+==============================
+ EJERCICIOS DE PYTHON - INTERMEDIO
+==============================
+
+1. Palíndromos
+   Escribe una función que determine si una palabra es un palíndromo (se lee igual al derecho y al revés). {OK}
+
+2. Números primos en un rango
+   Escribe un programa que reciba un número y devuelva todos los números primos hasta ese número.
+
+3. Analizador de texto
+   Escribe un programa que lea un archivo de texto y cuente cuántas palabras y cuántas líneas tiene.
+
+4. Diccionario de contactos
+   Crea una aplicación que permita al usuario guardar nombres y teléfonos en un diccionario.
+
+5. Simulador de dados
+   Escribe un programa que simule el lanzamiento de dos dados y diga si salió doble o no.
+
+(Puedes escribir tus respuestas debajo de cada enunciado)
