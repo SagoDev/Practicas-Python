@@ -7,10 +7,10 @@
    Escribe una función que determine si una palabra es un palíndromo (se lee igual al derecho y al revés). {OK}
 
 2. Números primos en un rango
-   Escribe un programa que reciba un número y devuelva todos los números primos hasta ese número.
+   Escribe un programa que reciba un número y devuelva todos los números primos hasta ese número.{OK}
 
 3. Analizador de texto
-   Escribe un programa que lea un archivo de texto y cuente cuántas palabras y cuántas líneas tiene.
+   Escribe un programa que lea un archivo de texto y cuente cuántas palabras y cuántas líneas tiene.{OK}
 
 4. Diccionario de contactos
    Crea una aplicación que permita al usuario guardar nombres y teléfonos en un diccionario.

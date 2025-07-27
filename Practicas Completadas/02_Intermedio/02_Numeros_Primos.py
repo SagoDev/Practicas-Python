@@ -9,11 +9,11 @@ def obtener_numeros_primos(num: int):
 
     for numero in lista_de_numeros:
         if (
-            numero % 2 != 0
+            numero in divisores_primos
+            or numero % 2 != 0
             and numero % 3 != 0
             and numero % 5 != 0
             and numero % 7 != 0
-            or divisores_primos.count(numero) != 0
         ):
             numeros_primos.append(numero)
 
