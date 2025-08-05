@@ -4,7 +4,7 @@
 ==============================
 
 1. Organizador de archivos
-   Crea un programa que clasifique archivos en carpetas por tipo (PDF, imágenes, etc.) en una ruta dada.
+   Crea un programa que clasifique archivos en carpetas por tipo (PDF, imágenes, etc.) en una ruta dada.{OK}
 
 2. Agenda con POO
    Crea una clase `Contacto` y una clase `Agenda` que permita agregar, buscar y eliminar contactos.

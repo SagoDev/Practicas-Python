@@ -16,6 +16,6 @@
    Crea una aplicación que permita al usuario guardar nombres y teléfonos en un diccionario.{OK}
 
 5. Simulador de dados
-   Escribe un programa que simule el lanzamiento de dos dados y diga si salió doble o no.
+   Escribe un programa que simule el lanzamiento de dos dados y diga si salió doble o no.{OK}
 
 (Puedes escribir tus respuestas debajo de cada enunciado)
