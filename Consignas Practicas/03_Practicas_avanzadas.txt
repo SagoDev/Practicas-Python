@@ -5,17 +5,46 @@
 
 1. Organizador de archivos
    Crea un programa que clasifique archivos en carpetas por tipo (PDF, imágenes, etc.) en una ruta dada.{OK}
+   Conocimientos necesarios:
+      - Uso del módulo os para navegar por archivos y carpetas.
+      - Uso del módulo shutil para mover archivos.
+      - Uso de os.listdir() y os.path para trabajar con rutas.
+      - Condicionales if y estructuras de control.
 
 2. Agenda con POO
    Crea una clase `Contacto` y una clase `Agenda` que permita agregar, buscar y eliminar contactos.
+   Conocimientos necesarios:
+      - Programación orientada a objetos (POO) en Python.
+      - Definición de clases y métodos.
+      - Uso de listas o diccionarios para almacenar objetos.
+      - Métodos como __init__, __str__ y funciones personalizadas.
+      - Entrada de datos y condicionales.
 
 3. Web Scraper de noticias
    Usando requests y BeautifulSoup, haz un programa que extraiga los titulares de un sitio de noticias.
+   Conocimientos necesarios:
+      - Instalación y uso de requests para hacer peticiones HTTP.
+      - Instalación y uso de BeautifulSoup para parsear HTML.
+      - Selección de elementos HTML por etiquetas o clases.
+      - Manejo de errores de conexión.
+      - Bucle for para recorrer elementos obtenidos.
 
 4. Juego: Adivina el número
    Crea un juego donde la computadora elige un número aleatorio y el usuario intenta adivinarlo.
+   Conocimientos necesarios:
+      - Importación y uso del módulo random.
+      - Entrada y conversión de datos con input() y int().
+      - Bucles while y condicionales if/else.
+      - Uso de operadores de comparación (<, >, ==).
+      - Mensajes de guía para el usuario (print).
 
 5. Analizador CSV
    Crea un programa que lea un archivo CSV y muestre estadísticas básicas como promedio, máximo y mínimo de una columna numérica.
+   Conocimientos necesarios:
+   - Uso del módulo csv para leer archivos CSV.
+   - Acceso a archivos con open() y with.
+   - Conversión de datos a tipo numérico con float() o int().
+   - Funciones integradas como sum(), max(), min(), len().
+   - Posiblemente uso de pandas para una solución más avanzada.
 
 (Puedes escribir tus respuestas debajo de cada enunciado)
