@@ -21,7 +21,7 @@
       - Entrada de datos y condicionales.
 
 3. Web Scraper de noticias
-   Usando requests y BeautifulSoup, haz un programa que extraiga los titulares de un sitio de noticias.
+   Usando requests y BeautifulSoup, haz un programa que extraiga los titulares de un sitio de noticias.{OK}
    Conocimientos necesarios:
       - Instalación y uso de requests para hacer peticiones HTTP.
       - Instalación y uso de BeautifulSoup para parsear HTML.
@@ -30,7 +30,7 @@
       - Bucle for para recorrer elementos obtenidos.
 
 4. Juego: Adivina el número
-   Crea un juego donde la computadora elige un número aleatorio y el usuario intenta adivinarlo.
+   Crea un juego donde la computadora elige un número aleatorio y el usuario intenta adivinarlo.{OK}
    Conocimientos necesarios:
       - Importación y uso del módulo random.
       - Entrada y conversión de datos con input() y int().
