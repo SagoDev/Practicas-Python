@@ -12,7 +12,7 @@
       - Condicionales if y estructuras de control.
 
 2. Agenda con POO
-   Crea una clase `Contacto` y una clase `Agenda` que permita agregar, buscar y eliminar contactos.
+   Crea una clase `Contacto` y una clase `Agenda` que permita agregar, buscar y eliminar contactos.{OK}
    Conocimientos necesarios:
       - Programación orientada a objetos (POO) en Python.
       - Definición de clases y métodos.
