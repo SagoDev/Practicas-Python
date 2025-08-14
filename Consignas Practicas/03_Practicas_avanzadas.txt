@@ -39,7 +39,7 @@
       - Mensajes de guía para el usuario (print).
 
 5. Analizador CSV
-   Crea un programa que lea un archivo CSV y muestre estadísticas básicas como promedio, máximo y mínimo de una columna numérica.
+   Crea un programa que lea un archivo CSV y muestre estadísticas básicas como promedio, máximo y mínimo de una columna numérica.{OK}
    Conocimientos necesarios:
    - Uso del módulo csv para leer archivos CSV.
    - Acceso a archivos con open() y with.
